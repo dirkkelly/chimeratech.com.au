@@ -1,0 +1,81 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:57:45 Jul 23, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 4:49:07 Feb 14, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*=Page*/
+/*Page=*/
+
+/*=Header*/
+/*Header=*/
+
+	/*=Navigation*/
+	/*Navigation=*/
+
+/*=Content*/
+
+	div.content
+	{
+		font-family: "Trebuchet MS", Futura, Verdana, Arial;
+	}	
+	
+	div.content h1
+	{
+		visibility: hidden;
+	}
+	
+	div.content h2
+	{
+		text-align: center;
+		font-family: "Trebuchet MS", Verdana, Arial;
+		font-size: 14px; 
+		font-weight: bold;
+	}
+	
+	div.content blockquote p
+	{
+		font-family: "Trebuchet MS", Verdana, Arial;
+		text-align: justify;
+		font-weight: normal;
+		font-size: 14px;
+	}
+	
+	div.content address span
+	{
+		font-family: "Trebuchet MS", Verdana, Arial;
+		font-size: 13px;
+	}
+	
+	div#innerContentMore p
+	{
+		font-family: "Trebuchet MS", Verdana, Arial;
+		font-size: 12px;
+		text-align: justify; 
+	}
+	
+	div#innerContentMore blockquote p
+	{
+		font-style: italic;
+	}
+	
+	div#innerContentMore ul
+	{
+		list-style: circle;
+		list-style-position: inside;
+		font-family: "Trebuchet MS", Verdana, Arial;
+		font-size: 12px;
+		text-align: justify; 
+	}
+
+/*Content=*/
+	
+/*=Footer*/
+/*Footer=*/
