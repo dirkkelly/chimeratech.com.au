@@ -1,0 +1,143 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:58:11 Jul 23, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 4:47:52 Feb 14, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*=Page*/
+
+  html
+  {
+    background-color: #25507F;
+  }
+
+  body
+  {
+    background-color: #25507F;
+  }
+
+/*Page=*/
+
+/*=Header*/
+/*Header=*/
+
+  /*=Navigation*/
+  /*Navigation=*/
+
+/*=Content*/
+
+  div.content
+  {
+    background-image: url('/includes/images/content-background.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+  }
+
+  div.content span#logo
+  {
+    background-image: url('/includes/images/chimera-logo.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+
+  div.content a
+  {
+    color: #FFFFFF;
+  }
+
+  div.content span#moreText
+  {
+    background-image: url('/includes/images/text-more.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+
+  div.content span#showArrow, div.content span#hideArrow
+  {
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+
+  div.content span#showArrow
+  {
+    background-image: url('/includes/images/arrow-down.png');
+  }
+
+  div.content span#hideArrow
+  {
+    background-image: url('/includes/images/arrow-up.png');
+  }
+
+  div#contentMore
+  {
+    background-color: #151515;
+  }
+
+  div#innerContentMore
+  {
+    color: #FFFFFF;
+  }
+
+  div#innerContentMore p a
+  {
+    color: #FFFFFF;
+  }
+
+  div#contentMore ul#navigation li
+  {
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+
+  div#contentMore ul#navigation li#hosting
+  {
+    background-image: url('/includes/images/tab-hosting-inactive.png');
+  }
+
+  div#contentMore ul#navigation li#hosting:hover, div#contentMore ul#navigation li#hosting.current
+  {
+    background-image: url('/includes/images/tab-hosting-active.png');
+  }
+
+  div#contentMore ul#navigation li#programming
+  {
+    background-image: url('/includes/images/tab-programming-inactive.png');
+  }
+
+  div#contentMore ul#navigation li#programming:hover, div#contentMore ul#navigation li#programming.current
+  {
+    background-image: url('/includes/images/tab-programming-active.png');
+  }
+
+  div#contentMore ul#navigation li#profile
+  {
+    background-image: url('/includes/images/tab-profile-inactive.png');
+  }
+
+  div#contentMore ul#navigation li#profile:hover, div#contentMore ul#navigation li#profile.current
+  {
+    background-image: url('/includes/images/tab-profile-active.png');
+  }
+
+  div#contentMore ul#navigation li#mission
+  {
+    background-image: url('/includes/images/tab-mission-inactive.png');
+  }
+
+  div#contentMore ul#navigation li#mission:hover, div#contentMore ul#navigation li#mission.current
+  {
+    background-image: url('/includes/images/tab-mission-active.png');
+  }
+
+/*Content=*/
+
+/*=Footer*/
+/*Footer=*/
