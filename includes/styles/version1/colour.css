@@ -35,7 +35,7 @@
 
   div.content
   {
-    background-image: url('/includes/images/content-background.png');
+    background-image: url('../../images/content-background.png');
     background-position: top center;
     background-repeat: no-repeat;
     color: #FFFFFF;
@@ -43,7 +43,7 @@
 
   div.content span#logo
   {
-    background-image: url('/includes/images/chimera-logo.png');
+    background-image: url('../../images/chimera-logo.png');
     background-position: top center;
     background-repeat: no-repeat;
   }
@@ -55,7 +55,7 @@
 
   div.content span#moreText
   {
-    background-image: url('/includes/images/text-more.png');
+    background-image: url('../../images/text-more.png');
     background-position: top center;
     background-repeat: no-repeat;
   }
@@ -68,12 +68,12 @@
 
   div.content span#showArrow
   {
-    background-image: url('/includes/images/arrow-down.png');
+    background-image: url('../../images/arrow-down.png');
   }
 
   div.content span#hideArrow
   {
-    background-image: url('/includes/images/arrow-up.png');
+    background-image: url('../../images/arrow-up.png');
   }
 
   div#contentMore
@@ -99,42 +99,42 @@
 
   div#contentMore ul#navigation li#hosting
   {
-    background-image: url('/includes/images/tab-hosting-inactive.png');
+    background-image: url('../../images/tab-hosting-inactive.png');
   }
 
   div#contentMore ul#navigation li#hosting:hover, div#contentMore ul#navigation li#hosting.current
   {
-    background-image: url('/includes/images/tab-hosting-active.png');
+    background-image: url('../../images/tab-hosting-active.png');
   }
 
   div#contentMore ul#navigation li#programming
   {
-    background-image: url('/includes/images/tab-programming-inactive.png');
+    background-image: url('../../images/tab-programming-inactive.png');
   }
 
   div#contentMore ul#navigation li#programming:hover, div#contentMore ul#navigation li#programming.current
   {
-    background-image: url('/includes/images/tab-programming-active.png');
+    background-image: url('../../images/tab-programming-active.png');
   }
 
   div#contentMore ul#navigation li#profile
   {
-    background-image: url('/includes/images/tab-profile-inactive.png');
+    background-image: url('../../images/tab-profile-inactive.png');
   }
 
   div#contentMore ul#navigation li#profile:hover, div#contentMore ul#navigation li#profile.current
   {
-    background-image: url('/includes/images/tab-profile-active.png');
+    background-image: url('../../images/tab-profile-active.png');
   }
 
   div#contentMore ul#navigation li#mission
   {
-    background-image: url('/includes/images/tab-mission-inactive.png');
+    background-image: url('../../images/tab-mission-inactive.png');
   }
 
   div#contentMore ul#navigation li#mission:hover, div#contentMore ul#navigation li#mission.current
   {
-    background-image: url('/includes/images/tab-mission-active.png');
+    background-image: url('../../images/tab-mission-active.png');
   }
 
 /*Content=*/

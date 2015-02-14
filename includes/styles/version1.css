@@ -6,9 +6,9 @@
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
 */
-@import url("/includes/styles/version1/reset.css");
+@import url("./version1/reset.css");
 
-@import url("/includes/styles/version1/scaffolding.css") all;
-@import url("/includes/styles/version1/colour.css") all;
-@import url("/includes/styles/version1/typography.css") all;
-@import url("/includes/styles/version1/roar.css") all;
+@import url("./version1/scaffolding.css") all;
+@import url("./version1/colour.css") all;
+@import url("./version1/typography.css") all;
+@import url("./version1/roar.css") all;
