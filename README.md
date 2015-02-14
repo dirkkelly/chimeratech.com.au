@@ -1,6 +1,6 @@
 # chimeratech.com.au
 
-![chimeratech.com.au](https://cloud.githubusercontent.com/assets/81055/6199716/a9e083e4-b422-11e4-85c3-0ca9b1a3569f.png)
+![chimeratech.com.au](./_meta/a9e083e4-b422-11e4-85c3-0ca9b1a3569f.png)
 
 Chimera Technologies was a consulting business I started with my
 friend James Meneghello. We were an eclectic arrangement of hosting,
@@ -28,7 +28,7 @@ Ultimately it's just html, I did the ground work of setting it up with:
 
 ### Missing Content
 
-![missing content](https://cloud.githubusercontent.com/assets/81055/6199719/c0ac38a2-b422-11e4-8865-56abc171106e.png)
+![missing content](./_meta/c0ac38a2-b422-11e4-8865-56abc171106e.png)
 
 The content within the drawers retrieved from a POST request to the
 server. Not only was ajax entirely unnecessary for this purpose, as
