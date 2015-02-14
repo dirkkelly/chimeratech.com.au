@@ -16,7 +16,7 @@ This is a siterip taken from a [web.archive.org] snapshot taken on
 As this is just static html I've chosen [Jekyll] to serve the content,
 you can internet research how to get that up and running:
 
-`jekyll server --watch --baseurl=`
+`jekyll server --watch`
 
 If you have the [Foreman] gem installed:
 
