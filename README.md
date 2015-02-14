@@ -1,7 +1,5 @@
 # chimeratech.com.au
 
-## 2008 `index.html`
-
 ![chimeratech.com.au](./_meta/a9e083e4-b422-11e4-85c3-0ca9b1a3569f.png)
 
 Chimera Technologies was a consulting business I started with my
@@ -11,7 +9,7 @@ development and general consulting on how to internet.
 This is a siterip taken from a [web.archive.org] snapshot taken on
 2008-07-23 20:39:18.
 
-### Usage
+## Usage
 
 As this is just static html I've chosen [Jekyll] to serve the content,
 you can internet research how to get that up and running:
@@ -26,9 +24,9 @@ Ultimately it's just html, I did the ground work of setting it up with:
 
 `python -m SimpleHTTPServer`
 
-### Known Issues
+## Known Issues
 
-#### Missing Content
+### Missing Content
 
 ![missing content](./_meta/c0ac38a2-b422-11e4-8865-56abc171106e.png)
 
